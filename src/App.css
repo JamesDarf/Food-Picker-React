@@ -1,0 +1,15 @@
+#title{
+  color: #507ED3;
+}
+h1{
+  text-align: center;
+}
+#imgss {
+  display: flex;
+}
+form {
+  text-align: center;
+}
+.button1{
+  display: inline-block;
+}
